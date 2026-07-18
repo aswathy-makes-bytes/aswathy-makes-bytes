@@ -1,9 +1,10 @@
 ### 👋 Hi, I'm Aswathy
 
--🌱 Student & lifelong learner, currently exploring the world of **AI** and **coding**
--🔍 Still figuring out my niche — from machine learning to web dev, I'm curious about it all
--🤝 Excited about **open source** — learning by reading, contributing, and breaking things (then fixing them)
--💜 Colors of my world: purple, blue, black & white — because dark mode is a lifestyle
+- 🌱 Student & lifelong learner, currently exploring the world of **AI** and **coding**
+
+- 🔍 Still figuring out my niche — from machine learning to web dev, I'm curious about it all
+- 🤝 Excited about **open source** — learning by reading, contributing, and breaking things (then fixing them)
+- 💜 Colors of my world: purple, blue, black & white — because dark mode is a lifestyle
 
 ---
 
