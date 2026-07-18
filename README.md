@@ -16,18 +16,6 @@
 **🛠️ Currently learning**
 Python • Git & GitHub • ML basics • Whatever tutorial I fall into next
 
-## 📊 GitHub Stats
-
-![Aswathy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswathy-makes-bytes&show_icons=true&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aswathy-makes-bytes&theme=tokyonight)
-
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aswathy-makes-bytes&layout=compact&theme=tokyonight)
-
 **📫 Let's connect**
 Always open to collaborating on beginner-friendly open source projects!
 
